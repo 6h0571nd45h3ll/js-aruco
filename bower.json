@@ -1,0 +1,24 @@
+{
+  "name": "js-aruco",
+  "description": "JavaScript library for Augmented Reality applications",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/6h0571nd45h3ll/js-aruco.git"
+  }
+  "keywords": [
+    "motion",
+    "physics",
+    "particles"
+  ],
+  "authors": [
+    "Juan Mellado"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
